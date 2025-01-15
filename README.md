@@ -1,2 +1,2 @@
 # OpenDroids-PersistentVentures
-This is an Assignment for Marketing Manager position in Persistent Ventures
+Social Media UI/UX design and posting using CANVA and Figma
